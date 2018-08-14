@@ -1,0 +1,138 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstname": "Jennifer",
+            "username": "Jenn123",
+            "debt": "23456",
+            "term": "48",
+            "termmin": "36",
+            "termmax": "60",
+            "monthlymedian": "300",
+            "savings": "24872.06",
+            "monthlymin": "360",
+            "monthlymax": "240",
+            "totalpayoff": "48194.44",
+            "creditors": [
+                {
+                    "id": 1,
+                    "name": "WF CRD SVC",
+                    "imgpath": "./assets/images/creditor-wells fargo.png",
+                    "accountnumber": "*4085",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 2,
+                    "name": "Bank of America",
+                    "imgpath": "./assets/images/creditor-boa.png",
+                    "accountnumber": "*4011",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 3,
+                    "name": "CBNA",
+                    "imgpath": "./assets/images/creditor-citi2.png",
+                    "accountnumber": "*4085",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 4,
+                    "name": "Discover",
+                    "imgpath": "./assets/images/creditor-discover2.png",
+                    "accountnumber": "*7252",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 5,
+                    "name": "Lending Club Group",
+                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "accountnumber": "*7402",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 6,
+                    "name": "WF CRD SVC",
+                    "imgpath": "./assets/images/creditor-wells fargo.png",
+                    "accountnumber": "*7500",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 7,
+                    "name": "CBNA",
+                    "imgpath": "./assets/images/creditor-citi2.png",
+                    "accountnumber": "*7401",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 8,
+                    "name": "Lending Club Group",
+                    "imgpath": ".\/assets\/images\/creditor-lcg.png",
+                    "accountnumber": "*9000",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 9,
+                    "name": "Lending Club Group",
+                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "accountnumber": "*9066",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 10,
+                    "name": "Lending Club Group",
+                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "accountnumber": "*4011",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 11,
+                    "name": "Lending Club Group",
+                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "accountnumber": "*4020",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 12,
+                    "name": "Lending Club Group",
+                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "accountnumber": "*0611",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "firstname": "Joseph",
+            "username": "Joe123",
+            "debt": "25890.00",
+            "term": "72",
+            "monthlymedian": "303",
+            "savings": "9000",
+            "term-min": "60",
+            "term-max": "36"
+        },
+        {
+            "id": 3,
+            "firstname": "Santa",
+            "username": "Santa123",
+            "debt": "16500.56",
+            "term": "36",
+            "monthlymedian": "303",
+            "savings": "9000",
+            "term-min": "36",
+            "term-max": "60"
+        }
+    ]
+}

@@ -53,7 +53,9 @@
                 "charid": "2",
                 "height": "62",
                 "width": "863",
-                "bitmapPath": ".\/assets\/images\/svg\/stepssvg\/Step5\/images\/Image1.jpg"
+                "bitmapPath": ".\/assets\/images\/svg\/stepssvg\/Step5\/images\/Image1.jpg", 
+                "patternUnits": "userSpaceOnUse",
+                "patternTransform": "1,0,0,1,0,0"
             }
         ],
         "Sounds": [],

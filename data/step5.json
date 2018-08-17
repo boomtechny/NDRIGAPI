@@ -52,7 +52,7 @@
             {
                 "charid": "2",
                 "height": "62",
-                "width": "1267",
+                "width": "863",
                 "bitmapPath": ".\/assets\/images\/svg\/stepssvg\/Step5\/images\/Image1.jpg"
             }
         ],
@@ -96,7 +96,7 @@
                                 "charid": "3",
                                 "objectId": "2",
                                 "placeAfter": "1",
-                                "transformMatrix": "1,0,0,1,669.35,304"
+                                "transformMatrix": "1,0,0,1,661.7,304"
                             },
                             {
                                 "cmdType": "UpdateColorTransform",

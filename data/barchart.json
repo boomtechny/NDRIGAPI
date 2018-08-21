@@ -1,0 +1,25 @@
+{
+    "bardata": [
+    {
+        "id": 1,
+        "barlabel": "mp",
+       "barnumber": "180416",
+      
+    }, 
+    {
+        "id": 2, 
+        "barlabel":"cc", 
+        "barnumber":"121123"
+    }, 
+    {
+        "id":3, 
+        "barlabel":"dc", 
+        "barnumber":"84,000"
+    }, 
+    {
+        "id":4, 
+        "barlabel":"ndr",
+        "barnumber":"49559"
+    }
+]
+}

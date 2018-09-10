@@ -1,0 +1,35 @@
+{
+    "leads":[
+        {
+            "id":1, 
+            "leadid": "DS1333",
+            "leadownername":"John Murphy", 
+            "leadownerphone":"1-800-300-9550"
+        }, 
+        {
+            "id":2, 
+            "leadid": "DS1233",
+            "leadownername":"Alyssa Milano", 
+            "leadownerphone":"1-800-300-9010"
+        }, 
+        {
+            "id":3, 
+            "leadid": "DS1833",
+            "leadownername":"Mark Gunham", 
+            "leadownerphone":"1-800-422-9922"
+        }, 
+        {
+            "id":4, 
+            "leadid": "DS2333",
+            "leadownername":"Cynthia Cruz", 
+            "leadownerphone":"1-800-422-9922"
+        }, 
+        {
+            "id":5, 
+            "leadid": "DS4333",
+            "leadownername":"Edna Mole", 
+            "leadownerphone":"1-800-422-9922"
+        }
+
+    ]
+}

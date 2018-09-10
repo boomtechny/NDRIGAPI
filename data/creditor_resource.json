@@ -47,8 +47,8 @@
         }, 
         {
             "id":10, 
-            "creditortype_name":"Unsecured Line of Credit", 
-            "creditortype_url":"./assets/images/icons_creditor_types/credit_card_icon.jpg"
+            "creditortype_name":"Merchant", 
+            "creditortype_url":"./assets/images/icons_creditor_types/merchant_icon.jpg"
         }
 
             

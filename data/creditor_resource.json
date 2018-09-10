@@ -1,0 +1,59 @@
+{
+    "creditor_types": [
+        {
+            "id":1, 
+            "creditortype_name": "Credit Card", 
+            "creditortype_url": "./assets/images/icons_creditor_types/credit_card_icon.jpg"
+        },
+        {
+            "id":2, 
+            "creditortype_name":"Collection Agency", 
+            "creditortype_url":"./assets/images/icons_creditor_types/collection_agency_icon.jpg"
+        }, 
+        {
+            "id":3, 
+            "creditortype_name":"Judgement", 
+            "creditortype_url":"./assets/images/icons_creditor_types/judgement_icon.jpg"
+        }, 
+        {
+            "id":4, 
+            "creditortype_name":"Medical Bills", 
+            "creditortype_url":"./assets/images/icons_creditor_types/medical_bills_icon.jpg"
+        }, 
+        {
+            "id":5, 
+            "creditortype_name":"Personal Loan", 
+            "creditortype_url":"./assets/images/icons_creditor_types/personal_loan_icon.jpg"
+        }, 
+        {
+            "id":6, 
+            "creditortype_name":"Professional Fees", 
+            "creditortype_url":"./assets/images/icons_creditor_types/professional_fees_icon.jpg"
+        }, 
+        {
+            "id":7, 
+            "creditortype_name":"Unsecured Bank Loan", 
+            "creditortype_url":"./assets/images/icons_creditor_types/unsecured_bank_loan_icon.jpg"
+        }, 
+        {
+            "id":8, 
+            "creditortype_name":"Unsecured Business Loan", 
+            "creditortype_url":"./assets/images/icons_creditor_types/unsecured_business_loan.jpg"
+        }, 
+        {
+            "id":9, 
+            "creditortype_name":"Unsecured Line of Credit", 
+            "creditortype_url":"./assets/images/icons_creditor_types/unsecured_line_credit_icon.jpg"
+        }, 
+        {
+            "id":10, 
+            "creditortype_name":"Unsecured Line of Credit", 
+            "creditortype_url":"./assets/images/icons_creditor_types/credit_card_icon.jpg"
+        }
+
+            
+
+
+    
+    ]
+}

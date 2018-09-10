@@ -17,7 +17,8 @@
                 {
                     "id": 1,
                     "name": "WF CRD SVC",
-                    "imgpath": "./assets/images/creditor-wells fargo.png",
+                    "credtype":"Credit Card",
+               
                     "accountnumber": "*4085",
                     "originalbalance": "8086.00",
                     "currentstatus": "Delinquent"
@@ -25,7 +26,8 @@
                 {
                     "id": 2,
                     "name": "Bank of America",
-                    "imgpath": "./assets/images/creditor-boa.png",
+                    "credtype":"Unsecured Bank Loan",
+                   
                     "accountnumber": "*4011",
                     "originalbalance": "4050.00",
                     "currentstatus": "Current"
@@ -33,7 +35,7 @@
                 {
                     "id": 3,
                     "name": "CBNA",
-                    "imgpath": "./assets/images/creditor-citi2.png",
+                    "credtype":"Unsecured Bank Loan",
                     "accountnumber": "*4085",
                     "originalbalance": "2020.00",
                     "currentstatus": "Current"
@@ -41,7 +43,7 @@
                 {
                     "id": 4,
                     "name": "Discover",
-                    "imgpath": "./assets/images/creditor-discover2.png",
+                    "credtype":"Credit Card",
                     "accountnumber": "*7252",
                     "originalbalance": "8459.00",
                     "currentstatus": "Delinquent"
@@ -49,7 +51,7 @@
                 {
                     "id": 5,
                     "name": "Lending Club Group",
-                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*7402",
                     "originalbalance": "8081.00",
                     "currentstatus": "Delinquent"
@@ -57,7 +59,7 @@
                 {
                     "id": 6,
                     "name": "WF CRD SVC",
-                    "imgpath": "./assets/images/creditor-wells fargo.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*7500",
                     "originalbalance": "8081.00",
                     "currentstatus": "Delinquent"
@@ -65,7 +67,7 @@
                 {
                     "id": 7,
                     "name": "CBNA",
-                    "imgpath": "./assets/images/creditor-citi2.png",
+                    "credtype":"Personal Loan",
                     "accountnumber": "*7401",
                     "originalbalance": "8666.00",
                     "currentstatus": "Current"
@@ -73,7 +75,7 @@
                 {
                     "id": 8,
                     "name": "Lending Club Group",
-                    "imgpath": ".\/assets\/images\/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*9000",
                     "originalbalance": "10000.00",
                     "currentstatus": "Delinquent"
@@ -81,7 +83,7 @@
                 {
                     "id": 9,
                     "name": "Lending Club Group",
-                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*9066",
                     "originalbalance": "20000.00",
                     "currentstatus": "Delinquent"
@@ -89,7 +91,7 @@
                 {
                     "id": 10,
                     "name": "Lending Club Group",
-                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*4011",
                     "originalbalance": "5001.00",
                     "currentstatus": "Current"
@@ -97,7 +99,7 @@
                 {
                     "id": 11,
                     "name": "Lending Club Group",
-                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*4020",
                     "originalbalance": "2079.00",
                     "currentstatus": "Current"
@@ -105,7 +107,7 @@
                 {
                     "id": 12,
                     "name": "Lending Club Group",
-                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*0611",
                     "originalbalance": "1099.00",
                     "currentstatus": "Delinquent"
@@ -129,7 +131,7 @@
                 {
                     "id": 1,
                     "name": "WF CRD SVC",
-                    "imgpath": "./assets/images/creditor-wells fargo.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*4085",
                     "originalbalance": "8086.00",
                     "currentstatus": "Delinquent"
@@ -137,7 +139,7 @@
                 {
                     "id": 2,
                     "name": "Bank of America",
-                    "imgpath": "./assets/images/creditor-boa.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*4011",
                     "originalbalance": "4050.00",
                     "currentstatus": "Current"
@@ -145,7 +147,7 @@
                 {
                     "id": 3,
                     "name": "CBNA",
-                    "imgpath": "./assets/images/creditor-citi2.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*4085",
                     "originalbalance": "2020.00",
                     "currentstatus": "Current"
@@ -153,7 +155,7 @@
                 {
                     "id": 4,
                     "name": "Discover",
-                    "imgpath": "./assets/images/creditor-discover2.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*7252",
                     "originalbalance": "8459.00",
                     "currentstatus": "Delinquent"
@@ -161,7 +163,7 @@
                 {
                     "id": 5,
                     "name": "Lending Club Group",
-                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*7402",
                     "originalbalance": "8081.00",
                     "currentstatus": "Delinquent"
@@ -169,7 +171,7 @@
                 {
                     "id": 6,
                     "name": "WF CRD SVC",
-                    "imgpath": "./assets/images/creditor-wells fargo.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*7500",
                     "originalbalance": "8081.00",
                     "currentstatus": "Delinquent"
@@ -177,7 +179,7 @@
                 {
                     "id": 7,
                     "name": "CBNA",
-                    "imgpath": "./assets/images/creditor-citi2.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*7401",
                     "originalbalance": "8666.00",
                     "currentstatus": "Current"
@@ -185,7 +187,7 @@
                 {
                     "id": 8,
                     "name": "Lending Club Group",
-                    "imgpath": ".\/assets\/images\/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*9000",
                     "originalbalance": "10000.00",
                     "currentstatus": "Delinquent"
@@ -193,7 +195,7 @@
                 {
                     "id": 9,
                     "name": "Lending Club Group",
-                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*9066",
                     "originalbalance": "20000.00",
                     "currentstatus": "Delinquent"
@@ -201,7 +203,7 @@
                 {
                     "id": 10,
                     "name": "Lending Club Group",
-                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*4011",
                     "originalbalance": "5001.00",
                     "currentstatus": "Current"
@@ -209,7 +211,7 @@
                 {
                     "id": 11,
                     "name": "Discover",
-                    "imgpath": "./assets/images/creditor-discover2.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*4020",
                     "originalbalance": "2079.00",
                     "currentstatus": "Current"
@@ -217,7 +219,7 @@
                 {
                     "id": 12,
                     "name": "Lending Club Group",
-                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*0611",
                     "originalbalance": "1099.00",
                     "currentstatus": "Delinquent"
@@ -225,15 +227,15 @@
                 {
                     "id": 13,
                     "name": "Lending Club Group",
-                    "imgpath": "./assets/images/creditor-lcg.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*2241",
                     "originalbalance": "2099.00",
-                    "currentstatus": "Curren"
+                    "currentstatus": "Current"
                 }, 
                 {
                     "id": 14,
                     "name": "CBNA",
-                    "imgpath": "./assets/images/creditor-citi2.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*0611",
                     "originalbalance": "19990.00",
                     "currentstatus": "Delinquent"
@@ -241,7 +243,7 @@
                 {
                     "id": 15,
                     "name": "WF CRD SVC",
-                    "imgpath": "./assets/images/creditor-wells fargo.png",
+                    "credtype":"Unsecured Business Loan",
                     "accountnumber": "*0622",
                     "originalbalance": "1200.00",
                     "currentstatus": "Current"

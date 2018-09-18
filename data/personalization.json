@@ -260,6 +260,88 @@
             "savings": "9000",
             "term-min": "36",
             "term-max": "60"
+        }, 
+        {
+            "id": 4,
+            "firstname": "Jennifer",
+            "username": "Jenn123",
+            "debt": "25891",
+            "term": "45",
+            "termmin": "24",
+            "termmax": "48",
+            "monthlymedian": "430",
+            "savings": "6538.32",
+            "monthlymin": "490",
+            "monthlymax": "370",
+            "totalpayoff": "19352.68",
+            "creditors": [
+                {
+                    "id": 1,
+                    "name": "DISCOVER BANK",
+                    "credtype":"INSTALLMENTLOAN",
+               
+                    "accountnumber": "*8925",
+                    "originalbalance": "4542.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 2,
+                    "name": "CITI",
+                    "credtype":"CreditCard",
+                   
+                    "accountnumber": "*4202",
+                    "originalbalance": "4483.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 3,
+                    "name": "CHASE CARD",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*9505",
+                    "originalbalance": "3545.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 4,
+                    "name": "BK OF AMER",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*2395",
+                    "originalbalance": "2860.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 5,
+                    "name": "CBNA",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*7436",
+                    "originalbalance": "2828.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 6,
+                    "name": "CAPITALONE",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*8824",
+                    "originalbalance": "2645.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 7,
+                    "name": "DISCOVER FIN SVCS",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*8295",
+                    "originalbalance": "2512.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 8,
+                    "name": "BK OF AMER",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*9351",
+                    "originalbalance": "2476.00",
+                    "currentstatus": "Active"
+                }    
+            ]
         }
     ]
 }

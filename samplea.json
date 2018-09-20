@@ -1,0 +1,346 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstname": "Jennifer",
+            "username": "Jenn123",
+            "debt": "23456",
+            "term": "48",
+            "termmin": "36",
+            "termmax": "60",
+            "monthlymedian": "300",
+            "savings": "24872.06",
+            "monthlymin": "360",
+            "monthlymax": "240",
+            "totalpayoff": "48194.44",
+            "creditors": [
+                {
+                    "id": 1,
+                    "name": "WF CRD SVC",
+                    "credtype":"Credit Card",
+               
+                    "accountnumber": "*4085",
+                    "originalbalance": "8086.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 2,
+                    "name": "Bank of America",
+                    "credtype":"Unsecured Bank Loan",
+                   
+                    "accountnumber": "*4011",
+                    "originalbalance": "4050.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 3,
+                    "name": "CBNA",
+                    "credtype":"Unsecured Bank Loan",
+                    "accountnumber": "*4085",
+                    "originalbalance": "2020.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 4,
+                    "name": "Discover",
+                    "credtype":"Credit Card",
+                    "accountnumber": "*7252",
+                    "originalbalance": "8459.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 5,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*7402",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 6,
+                    "name": "WF CRD SVC",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*7500",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 7,
+                    "name": "CBNA",
+                    "credtype":"Personal Loan",
+                    "accountnumber": "*7401",
+                    "originalbalance": "8666.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 8,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*9000",
+                    "originalbalance": "10000.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 9,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*9066",
+                    "originalbalance": "20000.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 10,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*4011",
+                    "originalbalance": "5001.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 11,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*4020",
+                    "originalbalance": "2079.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 12,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*0611",
+                    "originalbalance": "1099.00",
+                    "currentstatus": "Delinquent"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "firstname": "Joseph",
+            "username": "Joe123",
+            "debt": "25890.00",
+            "term": "60",
+            "term-min": "60",
+            "term-max": "36", 
+            "monthlymedian": "300",
+            "savings": "24872.06",
+            "monthlymin": "360",
+            "monthlymax": "240",
+            "totalpayoff": "48194.44",
+            "creditors": [
+                {
+                    "id": 1,
+                    "name": "WF CRD SVC",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*4085",
+                    "originalbalance": "8086.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 2,
+                    "name": "Bank of America",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*4011",
+                    "originalbalance": "4050.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 3,
+                    "name": "CBNA",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*4085",
+                    "originalbalance": "2020.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 4,
+                    "name": "Discover",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*7252",
+                    "originalbalance": "8459.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 5,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*7402",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 6,
+                    "name": "WF CRD SVC",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*7500",
+                    "originalbalance": "8081.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 7,
+                    "name": "CBNA",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*7401",
+                    "originalbalance": "8666.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 8,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*9000",
+                    "originalbalance": "10000.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 9,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*9066",
+                    "originalbalance": "20000.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 10,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*4011",
+                    "originalbalance": "5001.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 11,
+                    "name": "Discover",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*4020",
+                    "originalbalance": "2079.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 12,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*0611",
+                    "originalbalance": "1099.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 13,
+                    "name": "Lending Club Group",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*2241",
+                    "originalbalance": "2099.00",
+                    "currentstatus": "Current"
+                }, 
+                {
+                    "id": 14,
+                    "name": "CBNA",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*0611",
+                    "originalbalance": "19990.00",
+                    "currentstatus": "Delinquent"
+                }, 
+                {
+                    "id": 15,
+                    "name": "WF CRD SVC",
+                    "credtype":"Unsecured Business Loan",
+                    "accountnumber": "*0622",
+                    "originalbalance": "1200.00",
+                    "currentstatus": "Current"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "firstname": "Santa",
+            "username": "Santa123",
+            "debt": "16500.56",
+            "term": "36",
+            "monthlymedian": "303",
+            "savings": "9000",
+            "term-min": "36",
+            "term-max": "60"
+        }, 
+        {
+            "id": 4,
+            "firstname": "Jennifer",
+            "unsecureddebt": "25891",
+            "programterm": "36",
+            "termmin": "24",
+            "termmax": "48",
+            "monthlypayment": "430",
+            "totalsavings": "6538.32",
+            "monthlymin": "490",
+            "monthlymax": "370",
+            "totalenrolleddebt": "19352.68",
+            "creditors": [
+                {
+                    "id": 1,
+                    "name": "DISCOVER BANK",
+                    "credtype":"INSTALLMENTLOAN",
+               
+                    "accountnumber": "*8925",
+                    "originalbalance": "4542.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 2,
+                    "name": "CITI",
+                    "credtype":"CreditCard",
+                   
+                    "accountnumber": "*4202",
+                    "originalbalance": "4483.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 3,
+                    "name": "CHASE CARD",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*9505",
+                    "originalbalance": "3545.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 4,
+                    "name": "BK OF AMER",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*2395",
+                    "originalbalance": "2860.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 5,
+                    "name": "CBNA",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*7436",
+                    "originalbalance": "2828.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 6,
+                    "name": "CAPITALONE",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*8824",
+                    "originalbalance": "2645.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 7,
+                    "name": "DISCOVER FIN SVCS",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*8295",
+                    "originalbalance": "2512.00",
+                    "currentstatus": "Active"
+                }, 
+                {
+                    "id": 8,
+                    "name": "BK OF AMER",
+                    "credtype":"CreditCard",
+                    "accountnumber": "*9351",
+                    "originalbalance": "2476.00",
+                    "currentstatus": "Active"
+                }    
+            ]
+        }
+    ]
+}

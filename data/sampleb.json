@@ -1,0 +1,24 @@
+{
+    "bardata": [
+        {
+            "id": 1,
+            "barlabel": "miniumpayments",
+            "barnumber": "180416"
+        },
+        {
+            "id": 2,
+            "barlabel": "creditcard",
+            "barnumber": "121123"
+        },
+        {
+            "id": 3,
+            "barlabel": "debtconsolidation",
+            "barnumber": "84000"
+        },
+        {
+            "id": 4,
+            "barlabel": "ndr",
+            "barnumber": "49559"
+        }
+    ]
+}

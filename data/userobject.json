@@ -1,10 +1,11 @@
 {
-    "leads":[
+    "user":[
         {
             "id":1, 
-            "userid": "DS1333",
+            "userid": "89200",
             "username":"Kristine Sullivan", 
-            "userextension":"800-300-9550"
+            "userphone":"800-300-9550", 
+            "userextension":"7690"
         }
     
 

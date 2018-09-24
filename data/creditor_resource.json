@@ -2,13 +2,15 @@
     "creditor_types": [
         {
             "id":1, 
-            "creditortype_name": "CreditCard", 
+            "creditortype_name": "Credit Card", 
             "creditortype_url": "./assets/images/icons_creditor_types/credit_card_icon.jpg"
+            
         },
         {
             "id":2, 
-            "creditortype_name":"CollectionAgency", 
+            "creditortype_name":"Collection Agency", 
             "creditortype_url":"./assets/images/icons_creditor_types/collection_agency_icon.jpg"
+         
         }, 
         {
             "id":3, 
@@ -17,22 +19,22 @@
         }, 
         {
             "id":4, 
-            "creditortype_name":"MedicalBills", 
+            "creditortype_name":"Medical Bills", 
             "creditortype_url":"./assets/images/icons_creditor_types/medical_bills_icon.jpg"
         }, 
         {
             "id":5, 
-            "creditortype_name":"PersonalLoan", 
+            "creditortype_name":"Personal Loan", 
             "creditortype_url":"./assets/images/icons_creditor_types/personal_loan_icon.jpg"
         }, 
         {
             "id":6, 
-            "creditortype_name":"ProfessionalFees", 
+            "creditortype_name":"Professional Fees", 
             "creditortype_url":"./assets/images/icons_creditor_types/professional_fees_icon.jpg"
         }, 
         {
             "id":7, 
-            "creditortype_name":"INSTALLMENTLOAN", 
+            "creditortype_name":"Unsecured Bank Loan", 
             "creditortype_url":"./assets/images/icons_creditor_types/unsecured_bank_loan_icon.jpg"
         }, 
         {
@@ -49,6 +51,7 @@
             "id":10, 
             "creditortype_name":"Merchant", 
             "creditortype_url":"./assets/images/icons_creditor_types/merchant_icon.jpg"
+          
         }
 
             

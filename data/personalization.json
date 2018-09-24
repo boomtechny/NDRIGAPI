@@ -281,7 +281,7 @@
                     "credtype":"INSTALLMENTLOAN",
                
                     "accountnumber": "*8442",
-                    "originalbalance": "4542.23",
+                    "originalbalance": "4542",
                     "currentstatus": "Active"
                 }, 
                 {
@@ -290,7 +290,7 @@
                     "credtype":"CreditCard",
                    
                     "accountnumber": "*3809",
-                    "originalbalance": "4483.60",
+                    "originalbalance": "4483",
                     "currentstatus": "Active"
                 }, 
                 {
@@ -298,7 +298,7 @@
                     "name": "CHASE CARD",
                     "credtype":"CreditCard",
                     "accountnumber": "*6555",
-                    "originalbalance": "3545.42",
+                    "originalbalance": "3545",
                     "currentstatus": "Active"
                 }, 
                 {
@@ -306,7 +306,7 @@
                     "name": "BK OF AMER",
                     "credtype":"CreditCard",
                     "accountnumber": "*2395",
-                    "originalbalance": "2860.01",
+                    "originalbalance": "2860",
                     "currentstatus": "Active"
                 }, 
                 {
@@ -314,7 +314,7 @@
                     "name": "CBNA",
                     "credtype":"CreditCard",
                     "accountnumber": "*5340",
-                    "originalbalance": "2828.99",
+                    "originalbalance": "2828",
                     "currentstatus": "Active"
                 }, 
                 {
@@ -322,7 +322,7 @@
                     "name": "CAPITALONE",
                     "credtype":"CreditCard",
                     "accountnumber": "*1295",
-                    "originalbalance": "2645.54",
+                    "originalbalance": "2645",
                     "currentstatus": "Active"
                 }, 
                 {
@@ -330,7 +330,7 @@
                     "name": "DISCOVER FIN SVCS",
                     "credtype":"CreditCard",
                     "accountnumber": "*8830",
-                    "originalbalance": "2512.00",
+                    "originalbalance": "2512",
                     "currentstatus": "Active"
                 }, 
                 {
@@ -338,7 +338,7 @@
                     "name": "BK OF AMER",
                     "credtype":"CreditCard",
                     "accountnumber": "*8371",
-                    "originalbalance": "2476.40",
+                    "originalbalance": "2476",
                     "currentstatus": "Active"
                 }    
             ]
